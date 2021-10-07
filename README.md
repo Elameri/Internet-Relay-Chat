@@ -1,5 +1,6 @@
 # Internet-Relay-Chat in C language
-(Project of the Computer Network Programming 2020 Course at Bordeaux INP)
-Instant client/server chat application in C language following the IRC (Internet Relay Chat - RFC1459) protocol .
+This project is part of the Computer Network Programming 2020 Course at Bordeaux INP
 
-The application allows messages to be exchanged between 2 users/several users, or to be sent to all users connected to the network, as well as to send files.
+Instant client/server chat application in C following the IRC (Internet Relay Chat - RFC1459) protocol .
+
+The application allows messages to be exchanged between 2 or several users, to be sent to all users connected to the network, and to send files.
